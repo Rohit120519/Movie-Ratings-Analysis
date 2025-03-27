@@ -1,0 +1,45 @@
+Data analysis techniques used in the notebook include exploratory data analysis (EDA) techniques such as data cleaning,
+feature engineering, statistical aggregations, and data visualizations. The notebook also uses machine learning models for predictive analysis,
+such as collaborative filtering, content-based filtering, sentiment analysis, and trend prediction.
+
+Technologies Used
+
+The following technologies were used:
+
+✅ Python Libraries:
+
+Pandas: Used for data manipulation.
+
+NumPy: Used for numerical computations.
+
+Matplotlib and Seaborn: Used for data visualization.
+
+Scikit-Learn: Used for machine learning models.
+
+✅ Jupyter Notebook: Used for interactive data analysis.
+
+✅ Dataset Sources:
+
+MovieLens dataset (movies.csv, ratings.csv, tags.csv)
+
+IMDb dataset for additional movie metadata
+
+Features Implemented
+1. Rating Distribution Analysis
+
+Visualizes how users rate movies.
+2. Genre-Based Rating Analysis
+
+Identifies top-rated and lowest-rated genres.
+3. Trend Analysis Over Time
+
+Shows if movies are improving or declining in ratings.
+4. Movie Popularity Analysis
+
+Finds movies with the highest number of ratings.
+5. Predictive Machine Learning Models
+
+Uses collaborative filtering & regression to recommend movies.
+6. Sentiment Analysis on User Reviews
+
+Identifies positive and negative sentiments.
